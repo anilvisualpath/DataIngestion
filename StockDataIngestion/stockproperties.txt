@@ -1,0 +1,7 @@
+files_path = /home/hduser
+Output_file = quotes555.csv
+Stock_symbols_file = nyse_securities.csv
+Special_tags_file = nyse_special_tags.csv
+Symbol_start_alphabet = A
+Symbol_end_alphabet = A
+Special_tags = snd1l1yr
