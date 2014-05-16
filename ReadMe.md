@@ -8,6 +8,7 @@ We are planning to implement the project in all the famous Cassandra clients ava
 
 * Hector 		  -	Nagarjuna
 * Astyanax	  -	Narasimha
+* DataStax    - Chandra Shekar
 * Kundera		  -	Open, let us know if anyone is interested to work on it
 * Pelops		  -	Open, let us know if anyone is interested to work on it
 
